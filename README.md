@@ -1,2 +1,2 @@
-# Myntra-Clone
+# Chat-Bot
 Created with CodeSandbox
